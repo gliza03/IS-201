@@ -1,0 +1,154 @@
+.topbar-div {
+    background-color: #333533;
+}
+.topbar{
+    padding: 10px;
+    color: #cac7d6;
+    font-weight: bold;
+}
+
+.bar-item {
+    padding: 3px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #f6f6f6;
+}
+
+.bar-item:hover {
+    color: #f0e2f3;
+    font-weight: bold;
+    text-decoration: underline #f0e2f3 2pt;
+}
+
+.introduction {
+    background-color: #d1e0b5;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 2%;
+}
+
+.main-content {
+    background-color: #B2A3B5;
+    display:flex;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 15px;
+    padding: 2%;
+}
+
+.movies {
+    background-color: #E2C044;
+    width: 40%;
+    margin-left: 8%;
+    margin-right: 2%;
+    padding: 2%;
+
+}
+
+.songs {
+    background-color: #E2C044;
+    width: 40%;
+    margin-right: 8%;
+    margin-left: 2%;
+    padding: 2%;
+}
+
+.tableau-graph {
+    background-color: #aad4c8;
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-bottom: 10px;
+    padding: 2%;
+}
+
+.list-title {
+    text-align: center;
+    padding: 5px;
+    color: #140F2D;
+    font-weight: bold;
+}
+
+ol{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#333533;
+}
+
+
+.title {
+    font-weight: 600;
+}
+
+.maintitle {
+    color:#333533;
+    font-weight: bold;
+    text-align: center;
+}
+
+.intro-div {
+    display: flex;
+    padding: 10px;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    position: relative;
+
+}
+
+.friends {
+    height: 300px;
+    display:flexbox;
+}
+
+.introtext {
+    margin: 30px;
+    margin-right: 10%;
+}
+
+img {
+    margin-bottom: 10px;
+}
+
+iframe {
+    margin-bottom: 15px;
+}
+
+.gallerypics {
+    object-fit: cover;
+    width: 230px;
+    height: 230px;
+}
+
+.gallerypics:hover {
+    opacity: 90%;
+}
+
+.gallerydiv {
+    margin-right: 2%;
+    margin-left: 2%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 2%;
+    background-color: #ae8bbc;
+}
+
+.gallery {
+    background-color: #f0e2f3;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 3%;
+}
+
+.tableau-content{
+    width: 100%;
+    margin-right: 10%;
+    margin-left: 8%;
+}
+.tableau-text {
+    color:#333533;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+}
